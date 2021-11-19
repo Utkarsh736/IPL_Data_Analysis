@@ -1,6 +1,13 @@
+// Checkpoints
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+// Text Files
+
 *.txt
 
+// Files
+
+Template2.ipynb
 Extra.ipynb
